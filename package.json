@@ -1,0 +1,19 @@
+{
+  "name": "katacoda-scenarios",
+  "version": "1.0.0",
+  "description": "[![](http://shields.katacoda.com/katacoda/ferfigue14/count.svg)](https://www.katacoda.com/ferfigue14 \"Get your profile on Katacoda.com\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoFigueroa14/katacoda-scenarios.git"
+  },
+  "author": "Fernando Figueroa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoFigueroa14/katacoda-scenarios/issues"
+  },
+  "homepage": "https://github.com/FernandoFigueroa14/katacoda-scenarios#readme"
+}
